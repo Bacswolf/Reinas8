@@ -13,3 +13,4 @@
 ### Se uso java swing para la interfaz gráfica.
 
 
+## Autor Brandon Ali Camacho Sandoval
